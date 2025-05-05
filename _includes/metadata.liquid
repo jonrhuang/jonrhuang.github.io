@@ -238,7 +238,11 @@
         "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
         "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
         {% if sameaslinks != blank %}
+<<<<<<< HEAD
         "sameAs": {{ sameaslinks | jsonify }},
+=======
+        "sameAs": {{ sameaslinks }},
+>>>>>>> 986652c1 (Initial commit)
         {% endif %}
         "name": "{{ author_name }}",
         "@context": "https://schema.org"

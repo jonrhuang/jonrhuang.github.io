@@ -1,3 +1,6 @@
 nbconvert
+<<<<<<< HEAD
 pyyaml
 scholarly
+=======
+>>>>>>> 986652c1 (Initial commit)

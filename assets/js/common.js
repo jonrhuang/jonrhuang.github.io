@@ -28,7 +28,10 @@ $(document).ready(function () {
     Toc.init($myNav);
     $("body").scrollspy({
       target: navSelector,
+<<<<<<< HEAD
       offset: 100,
+=======
+>>>>>>> 986652c1 (Initial commit)
     });
   }
 
