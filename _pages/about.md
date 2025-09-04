@@ -36,4 +36,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Jon! I am a computer hardware engineer at Brown Deer Technology developing RISC-V soft processor cores and SoCs implemented on FPGAs.
 
+I enjoy cooking, baking, and making drinks. Activities I enjoy include rock climbing, video games, and going to the gym.
+
+Currently, I'm enjoying learning ReactJS and plan to deploy a website with cocktail recipes I've made before.
 
