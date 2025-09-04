@@ -29,13 +29,12 @@
       "startDate": "2024-06",
       "endDate": "",
       "highlights": [
-        "Testing and verifying functionality of existing four-stage and five-stage 32-bit and 64-bit RISC-V soft processor cores",
-        "Developing RISC-V extension components, instruction cache, and data cache for 32-bit and 64-bit RISC-V processor in Verilog",
-        "Maintaining and developing test packages for multiple processors using assembly, C, and bash",
-        "Creating bash scripts and tools to streamline development workflow",
-        "Researching potential use cases and additional features for the soft processor cores",
-        "Programming FPGAs with basic test functionalities using Xilinx Vivado",
-        "Providing mentorship to intern, focusing on programming skills in C to create unique test cases"
+        "Developing and maintaining four and five-stage 32 and 64-bit RISC-V DSP processors along with respective test packages",
+        "Leading development of instruction and data caches to reduce cycle counts by up to 20%", 
+        "Creating scripts and tools to streamline development workflow",
+        "Creating a custom Theia-based IDE to streamline and automate development workflow and tool usage",
+        "Synthesizing cores onto FPGAs using Xlinx Vivado", 
+        "Providing mentorship to interns, focusing on programming skills as well as collaborating on projects"
       ]
     }, 
     {
@@ -46,7 +45,7 @@
       "startDate": "2023-08",
       "endDate": "2024-05",
       "highlights": [
-        "Simulated the team’s RISC-V core using Gem5",
+        "Created a software simulation of the team’s RISC-V core using Gem5",
         "Utilized Embench test suites to monitor performance and guide architectural improvements",
         "Led architecture development of the cache and ram using Gem5 to enhance memory performance by 15% through configuration optimizations"
       ]
@@ -59,9 +58,9 @@
       "startDate": "2023-05",
       "endDate": "2023-08",
       "highlights": [
-        "Researched ways to increase observability of resource usage on AWS EKS",
+        "Researched methods to increase observability of resource usage on AWS EKS applications",
         "Created a comprehensive run book outlining set up instructions for integrating Open Telemetry, Prometheus, and Grafana, ensuring streamlined implementation across current and future applications",
-        "Developed a lambda function to increase observability within AWS Batch jobs"
+        "Developed a lambda function to notify users of real time failures along with related information within AWS Batch jobs"
       ]
     },
     {
@@ -101,7 +100,9 @@
         "Bash",
         "Python",
         "Perl",
-        "Assembly"
+        "Assembly",
+        "TypeScript",
+        "ReactJS"
       ]
     },
     {
@@ -117,8 +118,7 @@
         "AWS",
         "Docker",
         "Gem5",
-        "Verilator",
-        "FPGA"
+        "Verilator"
       ]
     }
   ],
