@@ -29,12 +29,12 @@
       "startDate": "2024-06",
       "endDate": "",
       "highlights": [
-        "Developing and maintaining four and five-stage 32 and 64-bit RISC-V DSP processors along with respective test packages",
-        "Leading development of instruction and data caches to reduce cycle counts by up to 20%", 
-        "Creating scripts and tools to streamline development workflow",
-        "Creating a custom Theia-based IDE to streamline and automate development workflow and tool usage",
-        "Synthesizing cores onto FPGAs using Xlinx Vivado", 
-        "Providing mentorship to interns, focusing on programming skills as well as collaborating on projects"
+        "Developing and maintaining four and five-stage 32 RISC-V DSP processors, including comprehensive test packages",
+        "Leading the design and implementation of 64-bit RISC-V DSP processors",
+        "Building a custom Theia-based IDE to streamline and automate development workflow and testing",
+        "Driving development of parameterizable instruction and data caches, compliant with the AXI4 protocol, to reduce cycle counts by up to 20%",
+        "Synthesizing cores onto FPGAs using Xilinx Vivado",
+        "Exploring and implementing new potential use cases including CORDIC and MIL-STD-1553"
       ]
     }, 
     {
@@ -60,7 +60,7 @@
       "highlights": [
         "Researched methods to increase observability of resource usage on AWS EKS applications",
         "Created a comprehensive run book outlining set up instructions for integrating Open Telemetry, Prometheus, and Grafana, ensuring streamlined implementation across current and future applications",
-        "Developed a lambda function to notify users of real time failures along with related information within AWS Batch jobs"
+        "Developed a lambda function to notify users of real time failures along with essential information within AWS Batch jobs"
       ]
     },
     {
@@ -74,6 +74,22 @@
         "Identified over 15 major and recurring issues with applications or processes by implementing new data science clustering and NLP techniques in Python to process help desk tickets",
         "Communicated with the business relations team, database team, and infrastructure team to collect and organize application and licensing data for the migration to a new data storage software"
       ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Oracle Cloud Infrastructure Generative AI Professional",
+      "date": "2025-10",
+      "issuer": "Oracle",
+      "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=F3A7B7766E760CDC0A3B5D05AE12B2056123909C09B3F7E3EC5173B8F9B0BB73",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Oracle Cloud Infrastructure AI Foundations Associate",
+      "date": "2025-10",
+      "issuer": "Oracle",
+      "url": "https://catalog-education.oracle.com/pls/certview/sharebadge?id=4388A8B2FC2EC38E22175F235251267DAFEF743E7957B7F9E5091C4C8DA655B2",
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "education": [
@@ -123,6 +139,13 @@
     }
   ],
   "projects": [
+    {
+      "name": "Retrieval Augmented Generation (RAG) AI Agent",
+      "highlights": [
+        "Developed a Retrieval-Augmented Generation (RAG) system using OCI GenAI Agents to enable accurate, document-grounded responses about a clothing brand, ingesting PDFs covering policies such as returns, shipping, and company background",
+        "Designed and configured a semantic search pipeline by implementing chunking, vector embeddings, and retrieval settings, ensuring high-precision answers sourced directly from the brand’s policy documents"
+      ]
+    },
     {
       "name": "Multicore Processor",
       "highlights": [
